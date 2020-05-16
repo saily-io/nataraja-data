@@ -1,0 +1,84 @@
+[
+    {
+        "id": "magic-drop",
+        "name": "Magic Drop",
+        "bandcamp": "https://nataraja.bandcamp.com/album/magic-drop",
+        "artists": [
+            "psychobass"
+        ]
+    },
+    {
+        "id": "geminis",
+        "name": "Geminis",
+        "bandcamp": "https://nataraja.bandcamp.com/album/geminis",
+        "artists": [
+            "mosba"
+        ]
+    },
+    {
+        "id": "universal-talk",
+        "name": "Universal Talk",
+        "bandcamp": "https://nataraja.bandcamp.com/album/universal-talk",
+        "artists": []
+    },
+    {
+        "id": "ananda-tandava",
+        "name": "Ananda Tandava",
+        "bandcamp": "https://nataraja.bandcamp.com/album/ananda-tandava",
+        "artists": [
+            "innershade"
+        ]
+    },
+    {
+        "id": "overdosed-feelings",
+        "name": "Overdosed Feelings",
+        "bandcamp": "https://nataraja.bandcamp.com/album/overdosed-feelings",
+        "artists": [
+            "yner",
+            "chronosphere"
+        ]
+    },
+    {
+        "id": "cosmos-is-my-camp",
+        "name": "Cosmos is my Camp",
+        "bandcamp": "https://nataraja.bandcamp.com/album/cosmos-is-my-camp",
+        "artists": [
+            "mosba"
+        ]
+    },
+    {
+        "id": "strange-light",
+        "name": "Strange Light",
+        "bandcamp": "https://nataraja.bandcamp.com/album/strange-light",
+        "artists": [
+            "artificial-storm",
+            "stlkr"
+        ]
+    },
+    {
+        "id": "ancient-knowledge",
+        "name": "Ancient Knowledge",
+        "bandcamp": "https://nataraja.bandcamp.com/album/ancient-knowledge",
+        "artists": [
+            "conwerter",
+            "innershade"
+        ]
+    },
+    {
+        "id": "everything-is-connected",
+        "name": "Everything is Connected",
+        "bandcamp": "https://nataraja.bandcamp.com/album/everything-is-connected",
+        "artists": [
+            "chronica"
+        ]
+    },
+    {
+        "id": "radioactive-reactor",
+        "name": "Radioactive Reactor",
+        "bandcamp": "https://nataraja.bandcamp.com/album/radioactive-reactor",
+        "artists": [
+            "dktronic",
+            "azztech"
+        ]
+    }
+]

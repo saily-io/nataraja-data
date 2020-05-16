@@ -1,0 +1,122 @@
+[
+    {
+        "id": "abstract-layer",
+        "name": "Abstract Layer",
+        "live": true
+    },
+    {
+        "id": "oxilite",
+        "name": "Oxilite",
+        "live": true
+    },
+    {
+        "id": "inner-shade",
+        "name": "Inner Shade",
+        "live": true
+    },
+    {
+        "id": "activating-evolution",
+        "name": "Activation Evolution",
+        "live": true
+    },
+    {
+        "id": "psychobass",
+        "name": "Psychobass",
+        "live": true
+    },
+    {
+        "id": "chronica",
+        "name": "Chronica",
+        "live": true
+    },
+    {
+        "id": "terra-pura",
+        "name": "Terra Pura",
+        "live": true
+    },
+    {
+        "id": "moaiact",
+        "name": "Moaiact",
+        "live": true
+    },
+    {
+        "id": "out-of-jetlag",
+        "name": "Out of Jetlag",
+        "live": true
+    },
+    {
+        "id": "dktronic",
+        "name": "Dktronic",
+        "live": true
+    },
+    {
+        "id": "mosba",
+        "name": "MOSBA",
+        "live": true
+    },
+    {
+        "id": "spectree",
+        "name": "Spectree",
+        "live": true
+    },
+    {
+        "id": "yner",
+        "name": "Yner",
+        "live": true
+    },
+    {
+        "id": "the-nickelcat",
+        "name": "The NickelCat",
+        "live": true
+    },
+    {
+        "id": "mirson",
+        "name": "Mirson",
+        "live": true
+    },
+    {
+        "id": "iso-morphik",
+        "name": "IsoMorphik",
+        "live": true
+    },
+    {
+        "id": "akasha",
+        "name": "Akasha",
+        "live": true
+    },
+    {
+        "id": "psyjama",
+        "name": "Psyjama",
+        "live": false
+    },
+    {
+        "id": "maraz",
+        "name": "Maraz",
+        "live": false
+    },
+    {
+        "id": "high-frequency",
+        "name": "High Frequency",
+        "live": true
+    },
+    {
+        "id": "medhra",
+        "name": "Medhra",
+        "live": false
+    },
+    {
+        "id": "doki-doc",
+        "name": "DokiDoc",
+        "live": false
+    },
+    {
+        "id": "dmt",
+        "name": "DMT",
+        "live": false
+    },
+    {
+        "id": "tekn",
+        "name": "Tekn",
+        "live": false
+    }
+]
